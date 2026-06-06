@@ -1,6 +1,6 @@
-# 🌦️ Tracking API - Real-Time Weather App
+# 🧭 CloudCompass - Real-Time Weather App
 
-**Tracking API** adalah aplikasi lintas platform (cross-platform) yang dibangun menggunakan **Flutter** untuk melacak dan menampilkan informasi cuaca secara real-time berdasarkan lokasi pengguna. Aplikasi ini mengintegrasikan **OpenWeather API** untuk menyediakan data cuaca yang akurat dan terkini.
+**CloudCompass** adalah aplikasi lintas platform (cross-platform) yang dibangun menggunakan **Flutter** untuk melacak dan menampilkan informasi cuaca secara real-time berdasarkan lokasi pengguna. Aplikasi ini mengintegrasikan **OpenWeather API** untuk menyediakan data cuaca yang akurat dan terkini.
 
 ---
 
@@ -39,8 +39,6 @@ Pastikan Anda telah menginstall:
 - **Akun OpenWeather** untuk mendapatkan API Key gratis
 
 ---
-
-## 🚀 Cara Instalasi
 
 ### 1. Clone repository ini
 ```bash
